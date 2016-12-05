@@ -16,3 +16,5 @@ int32 DESERIALIZATION_STATE_ERROR = 3
 int32 deserialization_state
 
 string executing_control_mode_name
+
+string last_active_control_switch_name
